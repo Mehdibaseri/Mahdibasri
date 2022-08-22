@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arduino and python
 - 🌱 I’m currently learning Arduino and python
 - 💞️ I’m looking to collaborate on new things
-- 📫  reach me @hmhd1273 on Twitter 
+- 📫  reach me @mhd1273 on Twitter 
 
 
 <!---
